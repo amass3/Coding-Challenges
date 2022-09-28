@@ -1,3 +1,3 @@
 # Coding Challenges
-codesignal and hackerank Challenges
-my journey to become a better programmer by practice on these two platforms.
+codesignal and hackerank Challenges.
+My journey to become a better programmer by practice on these two platforms.
