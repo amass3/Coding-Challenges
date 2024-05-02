@@ -1,3 +1,3 @@
 # Coding Challenges
-codesignal and hackerank Challenges.
-My journey to becoming a better programmer.
+Codesignal and hackerank Challenges.
+My journey to better programming skills.
